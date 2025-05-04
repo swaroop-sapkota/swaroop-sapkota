@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @swaroop-sapkota
 
-- 👀 I’m interested in **Data Science** and **Machine Learning**.
-- 📫 How to reach me: **sapkotaswarup@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I like typing!** It’s one of my favorite activities and I enjoy improving my typing speed.
+👀 I’m interested in **Data Science** and **Machine Learning**.
+📫 How to reach me: **sapkotaswarup@gmail.com**
+😄 Pronouns: **he/him**
+⚡ Fun fact: **I like typing!** It’s one of my favorite activities and I enjoy improving my typing speed.
 
 
 
